@@ -1,0 +1,10 @@
+{
+    "port": 9999,
+    "baseURL": "",
+    "address": "127.0.0.1",
+    "log": "stdout",
+    "database": "E:\\Coding\\Program Windows\\FileBrowserForWindows\\database\\filebrowser.db",
+    "root": "E:\\Coding\\Program Windows\\FileBrowserForWindows\\data",
+    "cert": "",
+    "key": ""
+}
